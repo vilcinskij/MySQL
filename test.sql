@@ -8,6 +8,11 @@
 -- where Continent = 'Africa' and IndepYear = 1975;
 -- select * from city
 
-SELECT *
+-- SELECT *
+-- FROM city
+-- WHERE name LIKE '%~~%' escape '~'
+
+SELECT name
 FROM city
-WHERE name LIKE '%~~%' escape '~'
+WHERE name LIKE 'c%'
+ORDER BY name 

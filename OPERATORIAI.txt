@@ -1,8 +1,9 @@
-5       SELECT          stulpeliu_sarasas
-1       FROM            lenteliu_sarasas
+6       SELECT          stulpeliu sąrašas
+1       FROM            lenteliu sąrašas
 2       WHERE           filtras
-3	GROUP BY 	grupavimo_sąrašas
-4       ORDER BY        rušiavimo_sąrašas
+3		GROUP BY 		grupavimo sąrašas
+4		HAVING			grupių filtras
+5       ORDER BY        rušiavimo sąrašas
 		asc	didėjimo tvarka (default)
 		desc	mažėjimo tvarka
 

@@ -1,5 +1,5 @@
 select *
 from city
-where CountryCode='LTU'
-order by countrycode, Population desc
+where Population>3000000
+order by Population desc
 

@@ -5,4 +5,4 @@
 
 SELECT * 
 FROM country
-where Continent = 'Africa' and not IndepYear > 1970
+where Continent = 'Africa' and IndepYear is null

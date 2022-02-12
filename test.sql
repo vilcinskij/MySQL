@@ -12,7 +12,7 @@
 -- FROM city
 -- WHERE name LIKE '%~~%' escape '~'
 
-SELECT count(*)
+SELECT count(*), min(Population), max(Population), avg(Population)
 FROM country
 WHERE continent = 'asia' and name LIKE 'c%'
 -- ORDER BY Population desc 

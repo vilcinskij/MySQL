@@ -1,7 +1,8 @@
-4       SELECT          stulpeliu_sarasas
+5       SELECT          stulpeliu_sarasas
 1       FROM            lenteliu_sarasas
 2       WHERE           filtras
-3       ORDER BY        rušiavimo_sąrašas
+3	GROUP BY 	grupavimo_sąrašas
+4       ORDER BY        rušiavimo_sąrašas
 		asc	didėjimo tvarka (default)
 		desc	mažėjimo tvarka
 

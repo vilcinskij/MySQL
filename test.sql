@@ -10,4 +10,4 @@
 
 SELECT *
 FROM city
-WHERE name LIKE 'Vilnius'
+WHERE name LIKE 's%n%a%'

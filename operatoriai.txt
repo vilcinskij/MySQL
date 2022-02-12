@@ -22,3 +22,10 @@ like                    ar panašus
 or                      arba
 and                     ir
 not                     neigimas
+
+Agregacinės funkcijos:
+count(*), count(stulpelios_pavaadinimas)
+sum(stulpelios_pavaadinimas)
+min(stulpelios_pavaadinimas)
+max(stulpelios_pavaadinimas)
+avg(stulpelios_pavaadinimas)

@@ -1,0 +1,18 @@
+4       SELECT          stulpeliu_sarasas
+1       FROM            lenteliu_sarasas
+2       WHERE           filtras
+3       ORDER BY        rušiavimo_sąrašas
+
+=                       ar lygu
+>                       ar daugiau
+<                       ar mažiau
+>=                      ar daugiau lygu
+<=                      ar mažiau arba lygu
+<>                      ar nelygu
+is null                 ar reikšmė yra null
+is not null             ar reikšmė nėra null
+like                    ar panašus
+
+or                      arba
+and                     ir
+not                     neigimas

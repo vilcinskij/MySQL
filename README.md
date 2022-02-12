@@ -1,0 +1,3 @@
+# MySQL
+
+Duomenų bazių kurimas

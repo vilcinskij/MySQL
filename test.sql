@@ -1,4 +1,4 @@
 select *
 from city
-order by countrycode asc, population desc;
+order by countrycode, Population desc
 

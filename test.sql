@@ -12,7 +12,8 @@
 -- FROM city
 -- WHERE name LIKE '%~~%' escape '~'
 
-SELECT name
-FROM city
-WHERE name LIKE 'c%'
-ORDER BY name 
+SELECT count(*)
+FROM country
+WHERE continent = 'asia' and name LIKE 'c%'
+-- ORDER BY Population desc 
+

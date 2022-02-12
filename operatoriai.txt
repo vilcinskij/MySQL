@@ -2,6 +2,8 @@
 1       FROM            lenteliu_sarasas
 2       WHERE           filtras
 3       ORDER BY        rušiavimo_sąrašas
+		asc	didėjimo tvarka (default)
+		desc	mažėjimo tvarka
 
 =                       ar lygu
 >                       ar daugiau

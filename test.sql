@@ -5,4 +5,5 @@
 
 SELECT * 
 FROM country
-where Continent = 'Africa' and IndepYear is null
+where Continent = 'Africa' and IndepYear = 1975;
+select * from city

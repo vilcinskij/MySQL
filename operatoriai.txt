@@ -12,7 +12,9 @@
 is null                 ar reikšmė yra null
 is not null             ar reikšmė nėra null
 like                    ar panašus
-%			bet kiek bet kokių simbolių (gali visai nebūti (bet kiek = 0))
+	%		bet kiek bet kokių simbolių (gali visai nebūti (bet kiek = 0))
+	_		vienas bet koks simbolis
+
 
 or                      arba
 and                     ir

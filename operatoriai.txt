@@ -14,7 +14,7 @@ is not null             ar reikšmė nėra null
 like                    ar panašus
 	%		bet kiek bet kokių simbolių (gali visai nebūti (bet kiek = 0))
 	_		vienas bet koks simbolis
-	\		default escape simbolis (galima pakeisti kokiu nori)
+	\		default escape simbolis galima pakeisti kokiu nori su [escape='~']
 
 
 or                      arba

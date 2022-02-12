@@ -1,5 +1,8 @@
-select *
-from city
-where Population>500000 and (CountryCode='AUS' or CountryCode='ARG')
-order by Population desc
+-- select *
+-- from city
+-- where Population>500000 and (CountryCode='AUS' or CountryCode='ARG')
+-- order by Population desc
 
+SELECT * 
+FROM country
+where Continent = 'Africa' and not IndepYear > 1970

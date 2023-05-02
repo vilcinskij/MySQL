@@ -31,3 +31,5 @@ sum(stulpelios_pavaadinimas)			stulpelio reikšmių suma
 min(stulpelios_pavaadinimas)			didžiausia stulpelio reikšmė
 max(stulpelios_pavaadinimas)			mažiausia stulpelio reikšmė
 avg(stulpelios_pavaadinimas)			stulpelio reikšmių vidurkis
+
+

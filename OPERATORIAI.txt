@@ -1,5 +1,10 @@
 6       SELECT          stulpeliu sąrašas
 1       FROM            lenteliu sąrašas
+	      JOIN	lentelė_1 JOIN lentelė_2 ON elementas_1 = elementas_2 JOIN lentele_3 ON elementas_1 = elementas_3
+		LEFT
+		RIGHT
+		FULL
+					
 2       WHERE           filtras
 3	GROUP BY 	grupavimo sąrašas
 4	HAVING		grupių filtras

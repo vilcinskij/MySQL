@@ -22,9 +22,9 @@ DML - datamanipulation language
 		WHERE
 		
 DDL - data definition
-	CREATE
-	ALTER
-	DROP
+	CREATE		sukuria naują DB objektą
+	ALTER		pakeičia esamą DB objektą
+	DROP		iūtrina esamą DB objektą
 
 =                       ar lygu
 >                       ar daugiau

@@ -22,7 +22,9 @@ DML - datamanipulation language
 		WHERE
 		
 DDL - data definition
-
+	CREATE
+	ALTER
+	DROP
 
 =                       ar lygu
 >                       ar daugiau

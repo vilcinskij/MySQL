@@ -11,6 +11,18 @@
 5       ORDER BY        rušiavimo sąrašas
 		asc	didėjimo tvarka (default)
 		desc	mažėjimo tvarka
+		
+DML - datamanipulation language
+	INSERT INTO 
+		VALUES
+	UPDATE
+		SET
+		WHERE
+	DELETE FROM
+		WHERE
+		
+DDL - data definition
+
 
 =                       ar lygu
 >                       ar daugiau
@@ -26,9 +38,9 @@ like                    ar panašus
 	\		default escape simbolis galima pakeisti kokiu nori su [escape='~']
 
 
-or                      arba
-and                     ir
-not                     neigimas
+OR                      arba
+AND                     ir
+NOT                     neigimas
 
 Agregacinės funkcijos:
 count(*), count(stulpelios_pavaadinimas)	įrašų kiekis
@@ -36,5 +48,8 @@ sum(stulpelios_pavaadinimas)			stulpelio reikšmių suma
 min(stulpelios_pavaadinimas)			didžiausia stulpelio reikšmė
 max(stulpelios_pavaadinimas)			mažiausia stulpelio reikšmė
 avg(stulpelios_pavaadinimas)			stulpelio reikšmių vidurkis
+
+
+
 
 

@@ -36,3 +36,4 @@ max(stulpelios_pavaadinimas)			mažiausia stulpelio reikšmė
 avg(stulpelios_pavaadinimas)			stulpelio reikšmių vidurkis
 
 
+

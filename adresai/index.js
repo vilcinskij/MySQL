@@ -1,11 +1,16 @@
 import mysql from "mysql"
 
-var mysql = require('mysql');
 var connection = mysql.createConnection({
     host: 'localhost',
+    database: 'adresai',
     user: 'node_adr',
     password: 'node_adr_12345',
-    database: 'adresai'
 });
 
 connection.connect();
+
+console.log('prisijungiau');
+
+connection.end();
+
+console.log('atsijungiau');

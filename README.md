@@ -1,6 +1,7 @@
 # MySQL
 
 
+
 6       SELECT          stulpeliu sąrašas
 1       FROM            lenteliu sąrašas
 2       WHERE           filtras
